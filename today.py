@@ -3,7 +3,7 @@ from dateutil import relativedelta
 from lxml import etree
 
 # TODO: update this to your real birthday (year, month, day) to get an accurate Uptime counter
-BIRTHDAY = datetime.datetime(2008, 1, 1)
+BIRTHDAY = datetime.datetime(2011, 8, 26)
 
 
 def daily_readme(birthday):
