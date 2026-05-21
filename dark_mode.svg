@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1080px" height="530px" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -15,56 +15,81 @@ size-adjust: 109%;
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="530px" fill="#161b22" rx="15"/>
-<text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">                                              </tspan>
-<tspan x="15" y="50">                    .                         </tspan>
-<tspan x="15" y="70">                   :::                        </tspan>
-<tspan x="15" y="90">                  :::::                       </tspan>
-<tspan x="15" y="110">                 :::::::                      </tspan>
-<tspan x="15" y="130">                :::::::::                     </tspan>
-<tspan x="15" y="150">               ::::::::::                     </tspan>
-<tspan x="15" y="170">             .::::::::::::.                   </tspan>
-<tspan x="15" y="190">            ::::::::::::::                    </tspan>
-<tspan x="15" y="210">           :::::::::::::::                    </tspan>
-<tspan x="15" y="230">          ::::::::::::::::                    </tspan>
-<tspan x="15" y="250">          ::::::::::::::::                    </tspan>
-<tspan x="15" y="270">         :::::::::::::::::                    </tspan>
-<tspan x="15" y="290">         :::::::::::::::::                    </tspan>
-<tspan x="15" y="310">         :::::::::::::::::                    </tspan>
-<tspan x="15" y="330">          ::::::::::::::::                    </tspan>
-<tspan x="15" y="350">           :::::::::::::::                    </tspan>
-<tspan x="15" y="370">            :::::::::::::                     </tspan>
-<tspan x="15" y="390">             :::::::::::                      </tspan>
-<tspan x="15" y="410">              :::::::::                       </tspan>
-<tspan x="15" y="430">               :::::::                        </tspan>
-<tspan x="15" y="450">                :::::                         </tspan>
-<tspan x="15" y="470">                 :::                          </tspan>
-<tspan x="15" y="490">                  :                           </tspan>
-<tspan x="15" y="510">                                              </tspan>
+<rect width="1080px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="18" fill="#c9d1d9" font-size="8px" class="ascii">
+<tspan x="15" y="18">                                                                                                    </tspan>
+<tspan x="15" y="27">                                              !II;I;i:;;;;"                                         </tspan>
+<tspan x="15" y="36">                                          _~&lt;!;IlI::;;:"";ll!I                                      </tspan>
+<tspan x="15" y="45">                                   {~&lt;&gt;i!iii:;!i&gt;I;"""^^":;;;II:,                                   </tspan>
+<tspan x="15" y="54">                                 &gt;&lt;&gt;&gt;&lt;&gt;&gt;ii;:;i~;":""""`"`''``^^,I:,,&gt;                               </tspan>
+<tspan x="15" y="63">                                &gt;~~&lt;&gt;&gt;&gt;;```^...'^"`''`";;"^``^^^"`^:::                              </tspan>
+<tspan x="15" y="72">                                &gt;&lt;--I:l,''``'''`,^^^`''`":i;^^^^^"''',;:"                           </tspan>
+<tspan x="15" y="81">                               ~+--i",:`'"li~iI;!__l:"^^"^,"":,,"^`'.'`";"                          </tspan>
+<tspan x="15" y="90">                              {~!-?I^^`'`,i&gt;+[)(|\tf(]-iI,^^",'"^:I''..'^^:,                        </tspan>
+<tspan x="15" y="99">                              &lt;i;&gt;_&gt;;^^,i[(\rnncYYUYzcvnf(]&gt;]&lt;:^"!:".. ..'^;I                       </tspan>
+<tspan x="15" y="108">                             _-i!ll:::l-1\nvcJ0wqwmOCJYXXzvj/&lt;&gt;::Il'`....'^":;                      </tspan>
+<tspan x="15" y="117">                             +~l:i&lt;i&lt;-1|xXC0mpdbddpwOLCCJCXc(1+!II,^"'...'``^:;                     </tspan>
+<tspan x="15" y="126">                            &gt;&gt;II&gt;&lt;&lt;&gt;+1(nYQZwqqqqwmZO0QLCCCJnjr\-;"`'"^'.'`'''^:;                    </tspan>
+<tspan x="15" y="135">                           {&lt;&lt;I&gt;-]_?-1uLZZmqpppwwZ0QQLLLLCJYnt1}+:"`;^.''''`'`,;                    </tspan>
+<tspan x="15" y="144">                           '&lt;!;i++&lt;+(JOZmmOCQmwwwZOQLLQQ00LJXnt({-;"``.''`'''`:I!                   </tspan>
+<tspan x="15" y="153">                           IiI!&lt;ii+|LwmZZz0wmzxvcccUCOOOmZOLYvr/)}~I"'''''...`,I"                   </tspan>
+<tspan x="15" y="162">                          I&lt;!!!i&gt;+{JmwwmmbhabZQCCQLLZmOQLUuf|}][}-~&lt;&lt;&gt;;^`'...`";:                   </tspan>
+<tspan x="15" y="171">                          !&lt;!l&gt;&gt;&gt;?tOwwpdkbZCLcj|xUwk*aQzuf/trj({{+!&lt;_+i,`'.'''"II                   </tspan>
+<tspan x="15" y="180">                           -&gt;ll__]jZwqdpZY|Lv{!{|[LpaaJ)+[nCLCYzx|-!+_&lt;:`''''`":;                   </tspan>
+<tspan x="15" y="189">                           [+_++{+nZmwpbpmwpJj)\tzZZwOx&lt;:-xj1l~-[1]~+_+I^''''^::                    </tspan>
+<tspan x="15" y="198">                           w|r_1[[Jmqkaabq0YvrtfnC0wwOn_;!UQ}&gt;&lt;]i![_--+I`''''^,:                    </tspan>
+<tspan x="15" y="207">                           pYjf||rOqbhhkbqm0CJCOmwpwmQu-&gt;;I{\/\([[-i~-~:`'''`,:,                    </tspan>
+<tspan x="15" y="216">                          $pwhw/vzmdka*WWodm0QZdw0ZddQu1&gt;!!?ruczcx/[__i"`'``;:,                     </tspan>
+<tspan x="15" y="225">                           kmMbkaCwbha#W&amp;op0UJda#MooMbX/]~!}CLCUcr(?__l^^``^:,                      </tspan>
+<tspan x="15" y="234">                           *bbQkMZwdkho#*kOc0hoaaa**bm}~X|]YZhqOUx([--I"^`^,;"                      </tspan>
+<tspan x="15" y="243">                            kpkabmmpbbkhd0cQkhkbpdpwmUt}+~?jp#apLu)]-?I:"^,I;;                      </tspan>
+<tspan x="15" y="252">                             ppbdpOpbbkbwQ\0qmpbhaa0zXu\{[}cp*apQv)]-?IlI:;!I                       </tspan>
+<tspan x="15" y="261">                             qpbkqQmpdbbOcutL8@@@@@8*OUnv\}[LakZYj1]?_l;il-                         </tspan>
+<tspan x="15" y="270">                              $qOYnOwpppZJOqOQQwb#&amp;WMdquj&gt;,]UbkZz\[-[l,;!~                          </tspan>
+<tspan x="15" y="279">                                  {YZqppm0OmpbdbdOLCYu/{++?fZapJr)??~!+&lt;[/                          </tspan>
+<tspan x="15" y="288">                                  xnCZqpw0QQmdkbpqqmZLzt}[}|0dQn\{[-&lt;~}|                            </tspan>
+<tspan x="15" y="297">                              &gt;I:I_nULZwmZ0QL0OO0QLJUzvj)[[|xuxt(){uYt1}                            </tspan>
+<tspan x="15" y="306">                             l^^^,ljCO0QZZwwZZmOLCCUcr/({?-1(\\|t/ ZQLj                             </tspan>
+<tspan x="15" y="315">                            il:^`^lvQZwmOOmbhakmOZbqLvj/)}1\//t1[                                   </tspan>
+<tspan x="15" y="324">                           Il!l;^"lXQmpdbdqwmZO0QZwZQUXcuxrt)[?-                                    </tspan>
+<tspan x="15" y="333">                          ;l;II!;",vLOwbaahkbdpwmO0QCJYzuf([___&gt;                                    </tspan>
+<tspan x="15" y="342">                         ;::IIlIlI,_LZwpbh***ahbpqmZQUzuj|{_~-I;                                    </tspan>
+<tspan x="15" y="351">                        ;::::I;!!!l:?0pdbbha*MM*okqZLYvr/)?&lt;&gt;l,,:                                   </tspan>
+<tspan x="15" y="360">                      ;;,,,;;,l;;!i!;~uphaaaoo**ohdwQUvj\}-ii^"",:                                  </tspan>
+<tspan x="15" y="369">                ,I:::^^"^^,::,";;:!il;!{uwba***ookpZLYurt(]i,^"^""",,^                              </tspan>
+<tspan x="15" y="378">          _I,:::,""^`'``^^^,;,:";;,!i!I:~{/Uwbhaakdm0Uzuj|+,;^^^^^^^^"",:;i                         </tspan>
+<tspan x="15" y="387">       !::::,"^^````'''```""":,:",I,l&gt;iI,I&lt;?})xQmm0Cznrt)-I:"^``^``^````^^"",li                     </tspan>
+<tspan x="15" y="396">    xl::,,"^^^``````''''``^,,":,,"^;:I&lt;il":Ii~-?][]?_~&gt;l;:"I^````````'``^^^`^^",;!                  </tspan>
+<tspan x="15" y="405">  &gt;!;,,"^`````'```''''''`^`,",",,,"^;:;&gt;&gt;I":;lli&gt;&gt;&lt;&gt;i!lI;:,"``'``'```'```^``^^"",:II&lt;               </tspan>
+<tspan x="15" y="414">i!I:,"^^``''''''`^`''''''^:^"":",,""^:::&gt;iI"I!!!iii&gt;&gt;&gt;&gt;!!II^'`''`''``'``^````^^^":l!I;!             </tspan>
+<tspan x="15" y="423">!lI;,^``'``''..''""'..''.'::^"":",,",",I"iil"!&gt;&gt;&gt;&lt;~+_--_&lt;!;`''`'''`'`'`````````^^"l&gt;&gt;l;:!           </tspan>
+<tspan x="15" y="432">lliI,:`'''`'.''''^:^..''''";:`^";,,:":"";"!!I":;;lI;:^''.,"''''''''`''````'''```^^"Iii!;:;l         </tspan>
+<tspan x="15" y="441">l!i:.,I^'''...'''':,'.''''"::"'`";,";":",;"!l;"'.`Il;^'.':`''''''''''''``''''`````^"l&gt;!llI:l        </tspan>
+<tspan x="15" y="450">!!i;'.,I`.'...''.'::`.'''`^,:"^'`"::":"::,I"llI"'.`;:^'.^"'''''''''''''``'''''`````^Ii!!!:`I&gt;       </tspan>
+<tspan x="15" y="459">il!l`..::`'. ..''',;"'..'^,,:"`"^`,;:^;"::"I,I!:"''";:,":`..''''''''''```'''''''```^:ii!l"';l!      </tspan>
 </text>
-<text x="390" y="30" fill="#c9d1d9">
-<tspan x="390" y="30">ronav@gupta</tspan> -———————————————————————————————————————————-—-
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">macOS, iOS, Windows 11</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> </tspan><tspan class="value" id="age_data">14 years, 8 months, 25 days</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">IGNITE Pathways</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Founder, Student</tspan>
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">VS Code, Cursor</tspan>
-<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Shell</tspan>:<tspan class="cc"> ............................................. </tspan><tspan class="value">zsh</tspan>
-<tspan x="390" y="170" class="cc">. </tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Python, JavaScript, C++, Lua</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">HTML, CSS, JSON, YAML</tspan>
-<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">English, Spanish, Hindi</tspan>
-<tspan x="390" y="250" class="cc">. </tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> </tspan><tspan class="value">Game Dev, Machine Learning, Robotics</tspan>
-<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">ESP32, 3D Printing</tspan>
-<tspan x="390" y="330">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">guptaronav8@gmail.com</tspan>
-<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">ronav@ignitepathways.org</tspan>
-<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">thisshouldbeeasytoremember</tspan>
-<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">ignitepathways.org</tspan>
-<tspan x="390" y="450">- Currently</tspan> -————————————————————————————————————————————-—-
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Building</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">IGNITE Pathways</tspan>
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Learning</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Machine Learning, Graphics</tspan>
+<text x="475" y="30" fill="#c9d1d9">
+<tspan x="475" y="30">ronav@gupta</tspan> -———————————————————————————————————————————-—-
+<tspan x="475" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">macOS, iOS, Windows 11</tspan>
+<tspan x="475" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> </tspan><tspan class="value" id="age_data">14 years, 8 months, 25 days</tspan>
+<tspan x="475" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">IGNITE Pathways</tspan>
+<tspan x="475" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Founder, Student</tspan>
+<tspan x="475" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">VS Code, Cursor</tspan>
+<tspan x="475" y="150" class="cc">. </tspan><tspan class="key">Shell</tspan>:<tspan class="cc"> ............................................. </tspan><tspan class="value">zsh</tspan>
+<tspan x="475" y="170" class="cc">. </tspan>
+<tspan x="475" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Python, JavaScript, C++, Lua</tspan>
+<tspan x="475" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">HTML, CSS, JSON, YAML</tspan>
+<tspan x="475" y="230" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">English, Spanish, Hindi</tspan>
+<tspan x="475" y="250" class="cc">. </tspan>
+<tspan x="475" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> </tspan><tspan class="value">Game Dev, Machine Learning, Robotics</tspan>
+<tspan x="475" y="290" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">ESP32, 3D Printing</tspan>
+<tspan x="475" y="330">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="475" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">guptaronav8@gmail.com</tspan>
+<tspan x="475" y="370" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">ronav@ignitepathways.org</tspan>
+<tspan x="475" y="390" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">thisshouldbeeasytoremember</tspan>
+<tspan x="475" y="410" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">ignitepathways.org</tspan>
+<tspan x="475" y="450">- Currently</tspan> -————————————————————————————————————————————-—-
+<tspan x="475" y="470" class="cc">. </tspan><tspan class="key">Building</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">IGNITE Pathways</tspan>
+<tspan x="475" y="490" class="cc">. </tspan><tspan class="key">Learning</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Machine Learning, Graphics</tspan>
 </text>
 </svg>
