@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="440px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1020px" height="440px" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -15,7 +15,7 @@ size-adjust: 109%;
 .cc {fill: #c2cfde;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="440px" fill="#f6f8fa" rx="15"/>
+<rect width="1020px" height="440px" fill="#f6f8fa" rx="15"/>
 <text x="15" y="30" fill="#24292f" font-size="13px" class="ascii">
 <tspan x="15" y="30">                          x[{ (   t[</tspan>
 <tspan x="15" y="44">               f/x$}1)\{}[[11{}}[??_+x</tspan>
@@ -47,7 +47,7 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="408">?}1{-)({11]+]?--rJUYcx/(()(||/t/_,,l!i&gt;+_})1}?_|ru</tspan>
 </text>
 <text x="425" y="30" fill="#24292f">
-<tspan x="425" y="30">ronav@gupta</tspan> -———————————————————————————————————————————-—-
+<tspan x="425" y="30">ronav@gupta</tspan> -——————————————————————————————————————————-—-
 <tspan x="425" y="50" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">14 years, 9 months, 3 days</tspan>
 <tspan x="425" y="70" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">macOS, iOS, Windows 11</tspan>
 <tspan x="425" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">IGNITE Pathways</tspan>
@@ -59,7 +59,7 @@ text, tspan {white-space: pre;}
 <tspan x="425" y="230" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">English, Spanish, Hindi</tspan>
 <tspan x="425" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc">  </tspan><tspan class="value">Game Dev, Machine Learning, Robotics</tspan>
 <tspan x="425" y="290" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">ESP32, 3D Printing</tspan>
-<tspan x="425" y="330">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="425" y="330">- Contact</tspan> -————————————————————————————————————————————-—-
 <tspan x="425" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">guptaronav8@gmail.com</tspan>
 <tspan x="425" y="370" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">ronav@ignitepathways.org</tspan>
 <tspan x="425" y="390" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">thisshouldbeeasytoremember</tspan>
