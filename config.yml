@@ -7,8 +7,9 @@ host: gupta
 # Birthday powers the Uptime counter (years/months/days since).
 birthday: "2011-08-26"
 
-# Wider target so long values (Hobbies, Discord) still get visible dots.
-target_width: 65
+# Push the info panel right so ASCII art (50 chars × ~7.8px + 15px offset ≈ 405px)
+# has clear breathing room before the text starts.
+info_x: 425
 
 sections:
   - title: ""
