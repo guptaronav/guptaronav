@@ -1,0 +1,38 @@
+# ronav@gupta — neofetch profile config
+# Edit here, run `python build.py`, commit light_mode.svg + dark_mode.svg
+
+user: ronav
+host: gupta
+
+# Birthday powers the Uptime counter (years/months/days since).
+birthday: "2011-08-26"
+
+# Wider target so long values (Hobbies, Discord) still get visible dots.
+target_width: 65
+
+sections:
+  - title: ""
+    items:
+      - "OS: macOS, iOS, Windows 11"
+      - "Host: IGNITE Pathways"
+      - "Kernel: Founder, Student"
+      - "IDE: VS Code, Cursor"
+      - "Shell: zsh"
+
+  - title: ""
+    items:
+      - "Languages.Programming: Python, JavaScript, C++, Lua"
+      - "Languages.Computer: HTML, CSS, JSON, YAML"
+      - "Languages.Real: English, Spanish, Hindi"
+
+  - title: ""
+    items:
+      - "Hobbies.Software: Game Dev, Machine Learning, Robotics"
+      - "Hobbies.Hardware: ESP32, 3D Printing"
+
+  - title: "Contact"
+    items:
+      - "Email.Personal: guptaronav8@gmail.com"
+      - "Email.Work: ronav@ignitepathways.org"
+      - "Discord: thisshouldbeeasytoremember"
+      - "Website: ignitepathways.org"
