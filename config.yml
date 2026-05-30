@@ -4,8 +4,10 @@
 user: ronav
 host: gupta
 
-# Birthday powers the Uptime counter (years/months/days since).
-birthday: "2011-08-26"
+# Birthday is stored as a GitHub Actions repo secret (BIRTHDAY=YYYY-MM-DD).
+# This keeps the date private and automatically hides the day component
+# from the Uptime line (only "X years, Y months" is shown).
+birthday: null
 
 # Push the info panel right so ASCII art (50 chars × ~7.8px + 15px offset ≈ 405px)
 # has clear breathing room before the text starts.
